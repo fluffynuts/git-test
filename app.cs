@@ -6,7 +6,7 @@ namespace Application
     {
         public static int Main(string[] args)
         {
-            Console.WriteLine("Hello Dave\n");
+            Console.WriteLine("How much wood could a wood chuck chuck?\n");
             return 0;
             //this is a comment
         }
